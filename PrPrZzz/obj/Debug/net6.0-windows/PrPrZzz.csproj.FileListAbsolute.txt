@@ -1,0 +1,58 @@
+C:\Users\zapun\OneDrive\Рабочий стол\Производственная практика 2\PrPrZ\PrPrZzz\bin\Debug\net6.0-windows\PrPrZzz.exe
+C:\Users\zapun\OneDrive\Рабочий стол\Производственная практика 2\PrPrZ\PrPrZzz\bin\Debug\net6.0-windows\PrPrZzz.deps.json
+C:\Users\zapun\OneDrive\Рабочий стол\Производственная практика 2\PrPrZ\PrPrZzz\bin\Debug\net6.0-windows\PrPrZzz.runtimeconfig.json
+C:\Users\zapun\OneDrive\Рабочий стол\Производственная практика 2\PrPrZ\PrPrZzz\bin\Debug\net6.0-windows\PrPrZzz.dll
+C:\Users\zapun\OneDrive\Рабочий стол\Производственная практика 2\PrPrZ\PrPrZzz\bin\Debug\net6.0-windows\PrPrZzz.pdb
+C:\Users\zapun\OneDrive\Рабочий стол\Производственная практика 2\PrPrZ\PrPrZzz\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\zapun\OneDrive\Рабочий стол\Производственная практика 2\PrPrZ\PrPrZzz\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\zapun\OneDrive\Рабочий стол\Производственная практика 2\PrPrZ\PrPrZzz\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\zapun\OneDrive\Рабочий стол\Производственная практика 2\PrPrZ\PrPrZzz\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\zapun\OneDrive\Рабочий стол\Производственная практика 2\PrPrZ\PrPrZzz\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\zapun\OneDrive\Рабочий стол\Производственная практика 2\PrPrZ\PrPrZzz\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\zapun\OneDrive\Рабочий стол\Производственная практика 2\PrPrZ\PrPrZzz\obj\Debug\net6.0-windows\PrPrZzz.csproj.AssemblyReference.cache
+C:\Users\zapun\OneDrive\Рабочий стол\Производственная практика 2\PrPrZ\PrPrZzz\obj\Debug\net6.0-windows\PrPrZzz.Form1.resources
+C:\Users\zapun\OneDrive\Рабочий стол\Производственная практика 2\PrPrZ\PrPrZzz\obj\Debug\net6.0-windows\PrPrZzz.csproj.GenerateResource.cache
+C:\Users\zapun\OneDrive\Рабочий стол\Производственная практика 2\PrPrZ\PrPrZzz\obj\Debug\net6.0-windows\PrPrZzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zapun\OneDrive\Рабочий стол\Производственная практика 2\PrPrZ\PrPrZzz\obj\Debug\net6.0-windows\PrPrZzz.AssemblyInfoInputs.cache
+C:\Users\zapun\OneDrive\Рабочий стол\Производственная практика 2\PrPrZ\PrPrZzz\obj\Debug\net6.0-windows\PrPrZzz.AssemblyInfo.cs
+C:\Users\zapun\OneDrive\Рабочий стол\Производственная практика 2\PrPrZ\PrPrZzz\obj\Debug\net6.0-windows\PrPrZzz.csproj.CoreCompileInputs.cache
+C:\Users\zapun\OneDrive\Рабочий стол\Производственная практика 2\PrPrZ\PrPrZzz\obj\Debug\net6.0-windows\PrPrZzz.csproj.Up2Date
+C:\Users\zapun\OneDrive\Рабочий стол\Производственная практика 2\PrPrZ\PrPrZzz\obj\Debug\net6.0-windows\PrPrZzz.dll
+C:\Users\zapun\OneDrive\Рабочий стол\Производственная практика 2\PrPrZ\PrPrZzz\obj\Debug\net6.0-windows\refint\PrPrZzz.dll
+C:\Users\zapun\OneDrive\Рабочий стол\Производственная практика 2\PrPrZ\PrPrZzz\obj\Debug\net6.0-windows\PrPrZzz.pdb
+C:\Users\zapun\OneDrive\Рабочий стол\Производственная практика 2\PrPrZ\PrPrZzz\obj\Debug\net6.0-windows\PrPrZzz.genruntimeconfig.cache
+C:\Users\zapun\OneDrive\Рабочий стол\Производственная практика 2\PrPrZ\PrPrZzz\obj\Debug\net6.0-windows\ref\PrPrZzz.dll
+C:\Users\zapun\OneDrive\Рабочий стол\Учёба и Работа\Учеба\Производственная практика 2\PrPrZ\PrPrZzz\bin\Debug\net6.0-windows\PrPrZzz.exe
+C:\Users\zapun\OneDrive\Рабочий стол\Учёба и Работа\Учеба\Производственная практика 2\PrPrZ\PrPrZzz\bin\Debug\net6.0-windows\PrPrZzz.deps.json
+C:\Users\zapun\OneDrive\Рабочий стол\Учёба и Работа\Учеба\Производственная практика 2\PrPrZ\PrPrZzz\bin\Debug\net6.0-windows\PrPrZzz.runtimeconfig.json
+C:\Users\zapun\OneDrive\Рабочий стол\Учёба и Работа\Учеба\Производственная практика 2\PrPrZ\PrPrZzz\bin\Debug\net6.0-windows\PrPrZzz.dll
+C:\Users\zapun\OneDrive\Рабочий стол\Учёба и Работа\Учеба\Производственная практика 2\PrPrZ\PrPrZzz\bin\Debug\net6.0-windows\PrPrZzz.pdb
+C:\Users\zapun\OneDrive\Рабочий стол\Учёба и Работа\Учеба\Производственная практика 2\PrPrZ\PrPrZzz\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\zapun\OneDrive\Рабочий стол\Учёба и Работа\Учеба\Производственная практика 2\PrPrZ\PrPrZzz\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\zapun\OneDrive\Рабочий стол\Учёба и Работа\Учеба\Производственная практика 2\PrPrZ\PrPrZzz\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\zapun\OneDrive\Рабочий стол\Учёба и Работа\Учеба\Производственная практика 2\PrPrZ\PrPrZzz\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\zapun\OneDrive\Рабочий стол\Учёба и Работа\Учеба\Производственная практика 2\PrPrZ\PrPrZzz\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\zapun\OneDrive\Рабочий стол\Учёба и Работа\Учеба\Производственная практика 2\PrPrZ\PrPrZzz\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\zapun\OneDrive\Рабочий стол\Учёба и Работа\Учеба\Производственная практика 2\PrPrZ\PrPrZzz\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\zapun\OneDrive\Рабочий стол\Учёба и Работа\Учеба\Производственная практика 2\PrPrZ\PrPrZzz\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\zapun\OneDrive\Рабочий стол\Учёба и Работа\Учеба\Производственная практика 2\PrPrZ\PrPrZzz\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\zapun\OneDrive\Рабочий стол\Учёба и Работа\Учеба\Производственная практика 2\PrPrZ\PrPrZzz\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\zapun\OneDrive\Рабочий стол\Учёба и Работа\Учеба\Производственная практика 2\PrPrZ\PrPrZzz\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\zapun\OneDrive\Рабочий стол\Учёба и Работа\Учеба\Производственная практика 2\PrPrZ\PrPrZzz\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\zapun\OneDrive\Рабочий стол\Учёба и Работа\Учеба\Производственная практика 2\PrPrZ\PrPrZzz\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\zapun\OneDrive\Рабочий стол\Учёба и Работа\Учеба\Производственная практика 2\PrPrZ\PrPrZzz\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\zapun\OneDrive\Рабочий стол\Учёба и Работа\Учеба\Производственная практика 2\PrPrZ\PrPrZzz\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\zapun\OneDrive\Рабочий стол\Учёба и Работа\Учеба\Производственная практика 2\PrPrZ\PrPrZzz\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\zapun\OneDrive\Рабочий стол\Учёба и Работа\Учеба\Производственная практика 2\PrPrZ\PrPrZzz\obj\Debug\net6.0-windows\PrPrZzz.csproj.AssemblyReference.cache
+C:\Users\zapun\OneDrive\Рабочий стол\Учёба и Работа\Учеба\Производственная практика 2\PrPrZ\PrPrZzz\obj\Debug\net6.0-windows\PrPrZzz.Form1.resources
+C:\Users\zapun\OneDrive\Рабочий стол\Учёба и Работа\Учеба\Производственная практика 2\PrPrZ\PrPrZzz\obj\Debug\net6.0-windows\PrPrZzz.csproj.GenerateResource.cache
+C:\Users\zapun\OneDrive\Рабочий стол\Учёба и Работа\Учеба\Производственная практика 2\PrPrZ\PrPrZzz\obj\Debug\net6.0-windows\PrPrZzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zapun\OneDrive\Рабочий стол\Учёба и Работа\Учеба\Производственная практика 2\PrPrZ\PrPrZzz\obj\Debug\net6.0-windows\PrPrZzz.AssemblyInfoInputs.cache
+C:\Users\zapun\OneDrive\Рабочий стол\Учёба и Работа\Учеба\Производственная практика 2\PrPrZ\PrPrZzz\obj\Debug\net6.0-windows\PrPrZzz.AssemblyInfo.cs
+C:\Users\zapun\OneDrive\Рабочий стол\Учёба и Работа\Учеба\Производственная практика 2\PrPrZ\PrPrZzz\obj\Debug\net6.0-windows\PrPrZzz.csproj.CoreCompileInputs.cache
+C:\Users\zapun\OneDrive\Рабочий стол\Учёба и Работа\Учеба\Производственная практика 2\PrPrZ\PrPrZzz\obj\Debug\net6.0-windows\PrPrZzz.csproj.Up2Date
+C:\Users\zapun\OneDrive\Рабочий стол\Учёба и Работа\Учеба\Производственная практика 2\PrPrZ\PrPrZzz\obj\Debug\net6.0-windows\PrPrZzz.dll
+C:\Users\zapun\OneDrive\Рабочий стол\Учёба и Работа\Учеба\Производственная практика 2\PrPrZ\PrPrZzz\obj\Debug\net6.0-windows\refint\PrPrZzz.dll
+C:\Users\zapun\OneDrive\Рабочий стол\Учёба и Работа\Учеба\Производственная практика 2\PrPrZ\PrPrZzz\obj\Debug\net6.0-windows\PrPrZzz.pdb
+C:\Users\zapun\OneDrive\Рабочий стол\Учёба и Работа\Учеба\Производственная практика 2\PrPrZ\PrPrZzz\obj\Debug\net6.0-windows\PrPrZzz.genruntimeconfig.cache
+C:\Users\zapun\OneDrive\Рабочий стол\Учёба и Работа\Учеба\Производственная практика 2\PrPrZ\PrPrZzz\obj\Debug\net6.0-windows\ref\PrPrZzz.dll

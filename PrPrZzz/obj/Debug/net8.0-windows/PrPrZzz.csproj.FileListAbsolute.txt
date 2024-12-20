@@ -1,0 +1,495 @@
+C:\Users\zapun\OneDrive\Рабочий стол\Учёба и Работа\Учеба\Производственная практика 2\PrPrZ\PrPrZzz\obj\Debug\net8.0-windows\PrPrZzz.csproj.AssemblyReference.cache
+C:\Users\zapun\OneDrive\Рабочий стол\Учёба и Работа\Учеба\Производственная практика 2\PrPrZ\PrPrZzz\obj\Debug\net8.0-windows\PrPrZzz.Form1.resources
+C:\Users\zapun\OneDrive\Рабочий стол\Учёба и Работа\Учеба\Производственная практика 2\PrPrZ\PrPrZzz\obj\Debug\net8.0-windows\PrPrZzz.csproj.GenerateResource.cache
+C:\Users\zapun\OneDrive\Рабочий стол\Учёба и Работа\Учеба\Производственная практика 2\PrPrZ\PrPrZzz\obj\Debug\net8.0-windows\PrPrZzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zapun\OneDrive\Рабочий стол\Учёба и Работа\Учеба\Производственная практика 2\PrPrZ\PrPrZzz\obj\Debug\net8.0-windows\PrPrZzz.AssemblyInfoInputs.cache
+C:\Users\zapun\OneDrive\Рабочий стол\Учёба и Работа\Учеба\Производственная практика 2\PrPrZ\PrPrZzz\obj\Debug\net8.0-windows\PrPrZzz.AssemblyInfo.cs
+C:\Users\zapun\OneDrive\Рабочий стол\Учёба и Работа\Учеба\Производственная практика 2\PrPrZ\PrPrZzz\obj\Debug\net8.0-windows\PrPrZzz.csproj.CoreCompileInputs.cache
+C:\Users\zapun\OneDrive\Рабочий стол\Учёба и Работа\Учеба\Производственная практика 2\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\PrPrZzz.exe
+C:\Users\zapun\OneDrive\Рабочий стол\Учёба и Работа\Учеба\Производственная практика 2\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\PrPrZzz.deps.json
+C:\Users\zapun\OneDrive\Рабочий стол\Учёба и Работа\Учеба\Производственная практика 2\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\PrPrZzz.runtimeconfig.json
+C:\Users\zapun\OneDrive\Рабочий стол\Учёба и Работа\Учеба\Производственная практика 2\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\PrPrZzz.dll
+C:\Users\zapun\OneDrive\Рабочий стол\Учёба и Работа\Учеба\Производственная практика 2\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\PrPrZzz.pdb
+C:\Users\zapun\OneDrive\Рабочий стол\Учёба и Работа\Учеба\Производственная практика 2\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\zapun\OneDrive\Рабочий стол\Учёба и Работа\Учеба\Производственная практика 2\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\zapun\OneDrive\Рабочий стол\Учёба и Работа\Учеба\Производственная практика 2\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\zapun\OneDrive\Рабочий стол\Учёба и Работа\Учеба\Производственная практика 2\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\zapun\OneDrive\Рабочий стол\Учёба и Работа\Учеба\Производственная практика 2\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\zapun\OneDrive\Рабочий стол\Учёба и Работа\Учеба\Производственная практика 2\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\zapun\OneDrive\Рабочий стол\Учёба и Работа\Учеба\Производственная практика 2\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\zapun\OneDrive\Рабочий стол\Учёба и Работа\Учеба\Производственная практика 2\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\zapun\OneDrive\Рабочий стол\Учёба и Работа\Учеба\Производственная практика 2\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\zapun\OneDrive\Рабочий стол\Учёба и Работа\Учеба\Производственная практика 2\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\zapun\OneDrive\Рабочий стол\Учёба и Работа\Учеба\Производственная практика 2\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\zapun\OneDrive\Рабочий стол\Учёба и Работа\Учеба\Производственная практика 2\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\zapun\OneDrive\Рабочий стол\Учёба и Работа\Учеба\Производственная практика 2\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\zapun\OneDrive\Рабочий стол\Учёба и Работа\Учеба\Производственная практика 2\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\zapun\OneDrive\Рабочий стол\Учёба и Работа\Учеба\Производственная практика 2\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\zapun\OneDrive\Рабочий стол\Учёба и Работа\Учеба\Производственная практика 2\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\zapun\OneDrive\Рабочий стол\Учёба и Работа\Учеба\Производственная практика 2\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\zapun\OneDrive\Рабочий стол\Учёба и Работа\Учеба\Производственная практика 2\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\zapun\OneDrive\Рабочий стол\Учёба и Работа\Учеба\Производственная практика 2\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\zapun\OneDrive\Рабочий стол\Учёба и Работа\Учеба\Производственная практика 2\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\zapun\OneDrive\Рабочий стол\Учёба и Работа\Учеба\Производственная практика 2\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\zapun\OneDrive\Рабочий стол\Учёба и Работа\Учеба\Производственная практика 2\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\zapun\OneDrive\Рабочий стол\Учёба и Работа\Учеба\Производственная практика 2\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\zapun\OneDrive\Рабочий стол\Учёба и Работа\Учеба\Производственная практика 2\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\zapun\OneDrive\Рабочий стол\Учёба и Работа\Учеба\Производственная практика 2\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\zapun\OneDrive\Рабочий стол\Учёба и Работа\Учеба\Производственная практика 2\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\zapun\OneDrive\Рабочий стол\Учёба и Работа\Учеба\Производственная практика 2\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\zapun\OneDrive\Рабочий стол\Учёба и Работа\Учеба\Производственная практика 2\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\zapun\OneDrive\Рабочий стол\Учёба и Работа\Учеба\Производственная практика 2\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\zapun\OneDrive\Рабочий стол\Учёба и Работа\Учеба\Производственная практика 2\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\zapun\OneDrive\Рабочий стол\Учёба и Работа\Учеба\Производственная практика 2\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\zapun\OneDrive\Рабочий стол\Учёба и Работа\Учеба\Производственная практика 2\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\zapun\OneDrive\Рабочий стол\Учёба и Работа\Учеба\Производственная практика 2\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\zapun\OneDrive\Рабочий стол\Учёба и Работа\Учеба\Производственная практика 2\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\zapun\OneDrive\Рабочий стол\Учёба и Работа\Учеба\Производственная практика 2\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\zapun\OneDrive\Рабочий стол\Учёба и Работа\Учеба\Производственная практика 2\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\zapun\OneDrive\Рабочий стол\Учёба и Работа\Учеба\Производственная практика 2\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\zapun\OneDrive\Рабочий стол\Учёба и Работа\Учеба\Производственная практика 2\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\zapun\OneDrive\Рабочий стол\Учёба и Работа\Учеба\Производственная практика 2\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\zapun\OneDrive\Рабочий стол\Учёба и Работа\Учеба\Производственная практика 2\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\zapun\OneDrive\Рабочий стол\Учёба и Работа\Учеба\Производственная практика 2\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\zapun\OneDrive\Рабочий стол\Учёба и Работа\Учеба\Производственная практика 2\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\zapun\OneDrive\Рабочий стол\Учёба и Работа\Учеба\Производственная практика 2\PrPrZ\PrPrZzz\obj\Debug\net8.0-windows\PrPrZzz.csproj.Up2Date
+C:\Users\zapun\OneDrive\Рабочий стол\Учёба и Работа\Учеба\Производственная практика 2\PrPrZ\PrPrZzz\obj\Debug\net8.0-windows\PrPrZzz.dll
+C:\Users\zapun\OneDrive\Рабочий стол\Учёба и Работа\Учеба\Производственная практика 2\PrPrZ\PrPrZzz\obj\Debug\net8.0-windows\refint\PrPrZzz.dll
+C:\Users\zapun\OneDrive\Рабочий стол\Учёба и Работа\Учеба\Производственная практика 2\PrPrZ\PrPrZzz\obj\Debug\net8.0-windows\PrPrZzz.pdb
+C:\Users\zapun\OneDrive\Рабочий стол\Учёба и Работа\Учеба\Производственная практика 2\PrPrZ\PrPrZzz\obj\Debug\net8.0-windows\PrPrZzz.genruntimeconfig.cache
+C:\Users\zapun\OneDrive\Рабочий стол\Учёба и Работа\Учеба\Производственная практика 2\PrPrZ\PrPrZzz\obj\Debug\net8.0-windows\ref\PrPrZzz.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\PrPrZzz.exe
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\PrPrZzz.deps.json
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\PrPrZzz.runtimeconfig.json
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\PrPrZzz.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\PrPrZzz.pdb
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\obj\Debug\net8.0-windows\PrPrZzz.csproj.AssemblyReference.cache
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\obj\Debug\net8.0-windows\PrPrZzz.Form1.resources
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\obj\Debug\net8.0-windows\PrPrZzz.csproj.GenerateResource.cache
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\obj\Debug\net8.0-windows\PrPrZzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\obj\Debug\net8.0-windows\PrPrZzz.AssemblyInfoInputs.cache
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\obj\Debug\net8.0-windows\PrPrZzz.AssemblyInfo.cs
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\obj\Debug\net8.0-windows\PrPrZzz.csproj.CoreCompileInputs.cache
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\obj\Debug\net8.0-windows\PrPrZzz.csproj.Up2Date
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\obj\Debug\net8.0-windows\PrPrZzz.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\obj\Debug\net8.0-windows\refint\PrPrZzz.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\obj\Debug\net8.0-windows\PrPrZzz.pdb
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\obj\Debug\net8.0-windows\PrPrZzz.genruntimeconfig.cache
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\obj\Debug\net8.0-windows\ref\PrPrZzz.dll
+M:\Курсовая 2024\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\PrPrZzz.exe
+M:\Курсовая 2024\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\PrPrZzz.deps.json
+M:\Курсовая 2024\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\PrPrZzz.runtimeconfig.json
+M:\Курсовая 2024\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\PrPrZzz.dll
+M:\Курсовая 2024\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\PrPrZzz.pdb
+M:\Курсовая 2024\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Azure.Core.dll
+M:\Курсовая 2024\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Azure.Identity.dll
+M:\Курсовая 2024\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+M:\Курсовая 2024\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+M:\Курсовая 2024\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+M:\Курсовая 2024\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+M:\Курсовая 2024\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+M:\Курсовая 2024\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+M:\Курсовая 2024\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+M:\Курсовая 2024\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+M:\Курсовая 2024\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+M:\Курсовая 2024\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+M:\Курсовая 2024\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+M:\Курсовая 2024\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+M:\Курсовая 2024\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+M:\Курсовая 2024\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+M:\Курсовая 2024\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+M:\Курсовая 2024\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+M:\Курсовая 2024\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+M:\Курсовая 2024\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+M:\Курсовая 2024\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+M:\Курсовая 2024\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+M:\Курсовая 2024\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+M:\Курсовая 2024\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+M:\Курсовая 2024\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+M:\Курсовая 2024\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+M:\Курсовая 2024\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+M:\Курсовая 2024\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+M:\Курсовая 2024\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\System.Memory.Data.dll
+M:\Курсовая 2024\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+M:\Курсовая 2024\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+M:\Курсовая 2024\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+M:\Курсовая 2024\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+M:\Курсовая 2024\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\Курсовая 2024\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\Курсовая 2024\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+M:\Курсовая 2024\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+M:\Курсовая 2024\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+M:\Курсовая 2024\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+M:\Курсовая 2024\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+M:\Курсовая 2024\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+M:\Курсовая 2024\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+M:\Курсовая 2024\PrPrZ\PrPrZzz\obj\Debug\net8.0-windows\PrPrZzz.csproj.AssemblyReference.cache
+M:\Курсовая 2024\PrPrZ\PrPrZzz\obj\Debug\net8.0-windows\PrPrZzz.Form1.resources
+M:\Курсовая 2024\PrPrZ\PrPrZzz\obj\Debug\net8.0-windows\PrPrZzz.csproj.GenerateResource.cache
+M:\Курсовая 2024\PrPrZ\PrPrZzz\obj\Debug\net8.0-windows\PrPrZzz.GeneratedMSBuildEditorConfig.editorconfig
+M:\Курсовая 2024\PrPrZ\PrPrZzz\obj\Debug\net8.0-windows\PrPrZzz.AssemblyInfoInputs.cache
+M:\Курсовая 2024\PrPrZ\PrPrZzz\obj\Debug\net8.0-windows\PrPrZzz.AssemblyInfo.cs
+M:\Курсовая 2024\PrPrZ\PrPrZzz\obj\Debug\net8.0-windows\PrPrZzz.csproj.CoreCompileInputs.cache
+M:\Курсовая 2024\PrPrZ\PrPrZzz\obj\Debug\net8.0-windows\PrPrZzz.csproj.Up2Date
+M:\Курсовая 2024\PrPrZ\PrPrZzz\obj\Debug\net8.0-windows\PrPrZzz.dll
+M:\Курсовая 2024\PrPrZ\PrPrZzz\obj\Debug\net8.0-windows\refint\PrPrZzz.dll
+M:\Курсовая 2024\PrPrZ\PrPrZzz\obj\Debug\net8.0-windows\PrPrZzz.pdb
+M:\Курсовая 2024\PrPrZ\PrPrZzz\obj\Debug\net8.0-windows\PrPrZzz.genruntimeconfig.cache
+M:\Курсовая 2024\PrPrZ\PrPrZzz\obj\Debug\net8.0-windows\ref\PrPrZzz.dll
+M:\УП 2024\PrPrZ\PrPrZzz\obj\Debug\net8.0-windows\PrPrZzz.csproj.AssemblyReference.cache
+M:\УП 2024\PrPrZ\PrPrZzz\obj\Debug\net8.0-windows\PrPrZzz.ChoiceForm.resources
+M:\УП 2024\PrPrZ\PrPrZzz\obj\Debug\net8.0-windows\PrPrZzz.Form1.resources
+M:\УП 2024\PrPrZ\PrPrZzz\obj\Debug\net8.0-windows\PrPrZzz.RepairAVZ.resources
+M:\УП 2024\PrPrZ\PrPrZzz\obj\Debug\net8.0-windows\PrPrZzz.csproj.GenerateResource.cache
+M:\УП 2024\PrPrZ\PrPrZzz\obj\Debug\net8.0-windows\PrPrZzz.GeneratedMSBuildEditorConfig.editorconfig
+M:\УП 2024\PrPrZ\PrPrZzz\obj\Debug\net8.0-windows\PrPrZzz.AssemblyInfoInputs.cache
+M:\УП 2024\PrPrZ\PrPrZzz\obj\Debug\net8.0-windows\PrPrZzz.AssemblyInfo.cs
+M:\УП 2024\PrPrZ\PrPrZzz\obj\Debug\net8.0-windows\PrPrZzz.csproj.CoreCompileInputs.cache
+M:\УП 2024\PrPrZ\PrPrZzz\obj\Debug\net8.0-windows\PrPrZzz.dll
+M:\УП 2024\PrPrZ\PrPrZzz\obj\Debug\net8.0-windows\refint\PrPrZzz.dll
+M:\УП 2024\PrPrZ\PrPrZzz\obj\Debug\net8.0-windows\PrPrZzz.pdb
+M:\УП 2024\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\PrPrZzz.exe
+M:\УП 2024\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\PrPrZzz.deps.json
+M:\УП 2024\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\PrPrZzz.runtimeconfig.json
+M:\УП 2024\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\PrPrZzz.dll
+M:\УП 2024\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\PrPrZzz.pdb
+M:\УП 2024\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Azure.Core.dll
+M:\УП 2024\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Azure.Identity.dll
+M:\УП 2024\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+M:\УП 2024\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+M:\УП 2024\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+M:\УП 2024\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+M:\УП 2024\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+M:\УП 2024\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+M:\УП 2024\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+M:\УП 2024\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+M:\УП 2024\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+M:\УП 2024\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+M:\УП 2024\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+M:\УП 2024\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+M:\УП 2024\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+M:\УП 2024\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+M:\УП 2024\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+M:\УП 2024\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+M:\УП 2024\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+M:\УП 2024\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+M:\УП 2024\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+M:\УП 2024\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+M:\УП 2024\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+M:\УП 2024\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+M:\УП 2024\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+M:\УП 2024\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+M:\УП 2024\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Npgsql.dll
+M:\УП 2024\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+M:\УП 2024\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\System.ClientModel.dll
+M:\УП 2024\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+M:\УП 2024\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+M:\УП 2024\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\System.Formats.Asn1.dll
+M:\УП 2024\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+M:\УП 2024\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+M:\УП 2024\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\System.Memory.Data.dll
+M:\УП 2024\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+M:\УП 2024\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+M:\УП 2024\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\System.Text.Json.dll
+M:\УП 2024\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+M:\УП 2024\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+M:\УП 2024\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+M:\УП 2024\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\УП 2024\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\УП 2024\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+M:\УП 2024\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+M:\УП 2024\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+M:\УП 2024\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+M:\УП 2024\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+M:\УП 2024\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+M:\УП 2024\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+M:\УП 2024\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+M:\УП 2024\PrPrZ\PrPrZzz\obj\Debug\net8.0-windows\PrPrZzz.csproj.Up2Date
+M:\УП 2024\PrPrZ\PrPrZzz\obj\Debug\net8.0-windows\PrPrZzz.genruntimeconfig.cache
+M:\УП 2024\PrPrZ\PrPrZzz\obj\Debug\net8.0-windows\ref\PrPrZzz.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Npgsql.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\System.Formats.Asn1.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\obj\Debug\net8.0-windows\PrPrZzz.ChoiceForm.resources
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\obj\Debug\net8.0-windows\PrPrZzz.RepairAVZ.resources
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.Build.Locator.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\vlali\OneDrive\Рабочий стол\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\PrPrZzz.exe
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\PrPrZzz.deps.json
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\PrPrZzz.runtimeconfig.json
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\PrPrZzz.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\PrPrZzz.pdb
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Azure.Core.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Azure.Identity.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Humanizer.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.Build.Locator.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Npgsql.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\System.ClientModel.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\System.Formats.Asn1.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\System.Memory.Data.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\System.Text.Json.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+M:\PrPrZ\PrPrZzz\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+M:\PrPrZ\PrPrZzz\obj\Debug\net8.0-windows\PrPrZzz.csproj.AssemblyReference.cache
+M:\PrPrZ\PrPrZzz\obj\Debug\net8.0-windows\PrPrZzz.ChoiceForm.resources
+M:\PrPrZ\PrPrZzz\obj\Debug\net8.0-windows\PrPrZzz.Form1.resources
+M:\PrPrZ\PrPrZzz\obj\Debug\net8.0-windows\PrPrZzz.RepairAVZ.resources
+M:\PrPrZ\PrPrZzz\obj\Debug\net8.0-windows\PrPrZzz.csproj.GenerateResource.cache
+M:\PrPrZ\PrPrZzz\obj\Debug\net8.0-windows\PrPrZzz.GeneratedMSBuildEditorConfig.editorconfig
+M:\PrPrZ\PrPrZzz\obj\Debug\net8.0-windows\PrPrZzz.AssemblyInfoInputs.cache
+M:\PrPrZ\PrPrZzz\obj\Debug\net8.0-windows\PrPrZzz.AssemblyInfo.cs
+M:\PrPrZ\PrPrZzz\obj\Debug\net8.0-windows\PrPrZzz.csproj.CoreCompileInputs.cache
+M:\PrPrZ\PrPrZzz\obj\Debug\net8.0-windows\PrPrZzz.csproj.Up2Date
+M:\PrPrZ\PrPrZzz\obj\Debug\net8.0-windows\PrPrZzz.dll
+M:\PrPrZ\PrPrZzz\obj\Debug\net8.0-windows\refint\PrPrZzz.dll
+M:\PrPrZ\PrPrZzz\obj\Debug\net8.0-windows\PrPrZzz.pdb
+M:\PrPrZ\PrPrZzz\obj\Debug\net8.0-windows\PrPrZzz.genruntimeconfig.cache
+M:\PrPrZ\PrPrZzz\obj\Debug\net8.0-windows\ref\PrPrZzz.dll
